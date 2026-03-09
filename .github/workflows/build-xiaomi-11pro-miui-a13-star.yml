@@ -25,7 +25,7 @@ env:
   GCC_32_BRANCH : "android12L-release"
 
   DEFCONFIG_SOURCE: ""
-  DEFCONFIG_NAME : ""
+  DEFCONFIG_NAME : "vendor/lahaina-qgki_defconfig"
   DEFCONFIG_ORIGIN_IMAGE: "https://github.com/zhongwenxu520/mi11pro-kernel-files/releases/download/v1/boot.img"
   DEFCONFIG_FROM_BOOT: true
 
